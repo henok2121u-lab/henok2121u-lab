@@ -1,8 +1,8 @@
-<h1 align="left">Hey  there 👋 , I'm Henok</h1>
+<h1 align="left">👋 Hi, I'm Henok</h1>
 
 ###
 
-<p align="left">I am front end developer</p>
+<p align="left">🎨 Frontend Developer <br>💻 Passionate about building clean and interactive web interfaces<br>🚀 I love turning ideas into real, user-friendly applications</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚 I'm currently learning React & modern frontend tools<br>🎯 Goal: Become a Full Stack Developer<br>👨‍🏫 I enjoy simplifying complex concepts and helping others learn</p>
 
 ###
 
@@ -35,5 +35,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<h2 align="left">Tech Stack</h2>
+
+###
+
+<p align="left">💻 Frontend<br><br>HTML5, CSS3, JavaScript (ES6+)<br>React<br>Tailwind CSS, Bootstrap</p>
 
 ###
